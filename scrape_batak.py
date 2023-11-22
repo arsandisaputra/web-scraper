@@ -9,10 +9,11 @@ url_web = "https://www.kamusbatak.com/indonesia/"
 scraped = set()
 batak = []
 batak_indo = {}
-init_word = "abara"
+init_word = "masihol"
 file_kalimat = "batak_indo.txt"
 file_kata = "batak.txt"
 file_kata_indo = "indo.txt"
+
 
 def scrape(word):
     if word not in scraped:
@@ -31,7 +32,7 @@ def scrape(word):
         return []
 
 
-def bongkar(word, contents = []):
+def bongkar(word, contents=[]):
     # print(contents)
     if len(contents) > 0:
         if "404" in contents[0].text:
@@ -46,7 +47,7 @@ def bongkar(word, contents = []):
                     temp = temp.lower()
                     # batak_indo[word] = temp.strip().split("/")[0]
                     indo = temp.strip().split("/")[0]
-                    baris = word+ "~"+ indo
+                    baris = word + "~" + indo
                     simpanbaris(file_kalimat, baris)
                     simpanbaris(file_kata_indo, indo)
                 else:
@@ -57,7 +58,7 @@ def bongkar(word, contents = []):
                         text = btk_indo.split("=")
                         # batak_indo[text[0]] = text[1]
                         indo = text[1].strip()
-                        baris = text[0].strip()+ "~"+ indo
+                        baris = text[0].strip() + "~" + indo
                         simpanbaris(file_kalimat, baris)
                         simpanbaris(file_kata_indo, indo)
                         for btk in text[0].split():
@@ -73,7 +74,6 @@ def simpanbaris(file, baris):
 
 if __name__ == "__main__":
     contents = scrape(init_word)
+    print(contents)
     bongkar(init_word, contents)
     print("Selesai.")
-
-
