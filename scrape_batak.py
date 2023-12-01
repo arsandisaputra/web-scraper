@@ -128,6 +128,10 @@ def terindikasi(kb, ki, be, ie):
         return True
     return False
 
+def sama_persis(src, cmp):
+    if src.lower() == cmp.lower():
+        return True
+    return False
 
 
 if __name__ == "__main__":
@@ -140,12 +144,28 @@ if __name__ == "__main__":
     batak_english = load_data("batak_english.txt")
     indo_english = load_data("indo_english.txt")
 
+    fix_btk_indo = []
+    fix_btk_eng = []
+
+    unfix_btk_indo = []
+    unfix_btk_eng = []
     for i, (btk, indo, be, ie) in enumerate(zip(kalimat_batak, kalimat_indo, batak_english, indo_english )):
         # print(i+1, btk, indo, be, ie)
-        if terindikasi(btk, indo, be, ie):
-            print(i+1, btk, indo)
-        if i == 100:
-            break
+        if sama_persis(btk, be):
+            btk_indo = btk + '~' + indo
+            btk_eng = btk + '~' + ie
+            fix_btk_indo.append(btk_indo)
+            fix_btk_eng.append(btk_eng)
+        else:
+            if sama_persis(indo, ie):
+                btk_indo = indo + '~' + btk
+                btk_eng = indo + '~' + be
+                fix_btk_indo.append(btk_indo)
+                fix_btk_eng.append(btk_eng)
+            
+    # print(fix_btk_eng[:100])
+    simpandata("fix_batak_indo.txt", fix_btk_indo)
+    simpandata("fix_batak_eng.txt", fix_btk_eng)
     # list_baris = load_data(file_batak_indo)
     # for bi in list_baris:
     #     kalimat = bi.split('~')
