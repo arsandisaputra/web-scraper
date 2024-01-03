@@ -1,0 +1,100 @@
+1-Satu
+2-Dua
+3-Tiga
+4-Empat
+5-Lima
+6-Enam
+7-Tujuh
+8-Delapan
+9-Sembilan
+10-Sepuluh
+11-Sebelas
+12-Dua belas
+13-Tiga belas
+14-Empat belas
+15-Lima belas
+16-Enam belas
+17-Tujuh belas
+18-Delapan belas
+19-Sembilan belas
+20-Dua puluh
+21-Dua puluh satu
+22-Dua puluh dua
+23-Dua puluh tiga
+24-Dua puluh empat
+25-Dua puluh lima
+26-Dua puluh enam
+27-Dua puluh tujuh
+28-Dua puluh delapan
+29-Dua puluh sembilan
+30-Tiga puluh
+31-Tiga puluh satu
+32-Tiga puluh dua
+33-Tiga puluh tiga
+34-Tiga puluh empat
+35-Tiga puluh lima
+36-Tiga puluh enam
+37-Tiga puluh tujuh
+38-Tiga puluh delapan
+39-Tiga puluh sembilan
+40-Empat puluh
+41-Empat puluh satu
+42-Empat puluh dua
+43-Empat puluh tiga
+44-Empat puluh empat
+45-Empat puluh lima
+46-Empat puluh enam
+47-Empat puluh tujuh
+48-Empat puluh delapan
+49-Empat puluh sembilan
+50-Lima puluh
+51-Lima puluh satu
+52-Lima puluh dua
+53-Lima puluh tiga
+54-Lima puluh empat
+55-Lima puluh lima
+56-Lima puluh enam
+57-Lima puluh tujuh
+58-Lima puluh delapan
+59-Lima puluh sembilan
+60-Enam puluh
+61-Enam puluh satu
+62-Enam puluh dua
+63-Enam puluh tiga
+64-Enam puluh empat
+65-Enam puluh lima
+66-Enam puluh enam
+67-Enam puluh tujuh
+68-Enam puluh delapan
+69-Enam puluh sembilan
+70-Tujuh puluh
+71-Tujuh puluh satu
+72-Tujuh puluh dua
+73-Tujuh puluh tiga
+74-Tujuh puluh empat
+75-Tujuh puluh lima
+76-Tujuh puluh enam
+77-Tujuh puluh tujuh
+78-Tujuh puluh delapan
+79-Tujuh puluh sembilan
+80-Delapan puluh
+81-Delapan puluh satu
+82-Delapan puluh dua
+83-Delapan puluh tiga
+84-Delapan puluh empat
+85-Delapan puluh lima
+86-Delapan puluh enam
+87-Delapan puluh tujuh
+88-Delapan puluh delapan
+89-Delapan puluh sembilan
+90-Sembilan puluh
+91-Sembilan puluh satu
+92-Sembilan puluh dua
+93-Sembilan puluh tiga
+94-Sembilan puluh empat
+95-Sembilan puluh lima
+96-Sembilan puluh enam
+97-Sembilan puluh tujuh
+98-Sembilan puluh delapan
+99-Sembilan puluh sembilan
+100-Seratus
