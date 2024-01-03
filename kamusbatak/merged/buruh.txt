@@ -1,0 +1,10 @@
+buruh pabrik = parkarejo paberik
+buruh kapal = parkarejo hopal
+buruh tani = parkarejo tani
+buruh ladang = parkarejo hauma
+buruh pengambil kelapa = parkarejo pambuat kalapa
+apalah saya ini, hanya buruh = aha ma au on holan parkarejo
+saya hanya buruh  = au holan parkarejo
+buruh kasar = parkarejo risi
+penghasilan nya sebagai buruh tani sangat sedikit = naniomo sa ansiat ni parkarejo tani sai saotik
+hidup buruh = ngolu parkarejo

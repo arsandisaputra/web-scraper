@@ -1,0 +1,3 @@
+daun pelepah = bulung lampak
+pelepah kelapa = lampak kalapa
+pelepah pisang = lampak pisang

@@ -1,0 +1,5 @@
+gulungan benang = hulhulan bonang
+rokok gulungan = sigaret hulhulan
+gulungan rokok = hulhulan sigaret
+gulungan kertas = hulhulan harotas
+gulungan kain di badan = hulhulan kaen i daging

@@ -1,0 +1,3 @@
+dasar lepat = bingkas lampet
+bahasa medan nya lepat = hata medan sa lampet
+kue lepat = kue lampet

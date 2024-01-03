@@ -1,0 +1,3 @@
+air membeku = aek marjogal
+membekas   membeku  = mangarontan marjogal
+jus membeku = jus marjogal

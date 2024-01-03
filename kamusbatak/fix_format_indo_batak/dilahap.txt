@@ -1,0 +1,2 @@
+dilahap api = diangkip api
+habis semua dilahap = suda luhut dilaplap

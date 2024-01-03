@@ -1,0 +1,3 @@
+pohon pakis = hau tandiang
+gulai pakis = gule pahu
+pakis tandiang = pahu tandiang

@@ -1,0 +1,2 @@
+binatang merumput = binatang manduhut
+aku disuruh merumput?  = au disuru manduhut

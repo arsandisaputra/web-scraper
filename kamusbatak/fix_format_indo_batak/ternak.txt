@@ -1,0 +1,10 @@
+merawat ternak = mangarorot hurje
+ternak kerbau = hurje horbo
+ternak lembu = hurje lombu
+siapa hewan ternak = ise pinahan hurje
+jaga ternak = radot hurje
+ayah memelihara hewan ternak = damang mangaramoti pinahan hurje
+makanan ternak = panganon hurje
+orang pencari makanan ternak = jolma pangalului panganon hurje
+pencari makanan ternak = pangalului panganon hurje
+kamu binatang ternak = ho binatang hurje

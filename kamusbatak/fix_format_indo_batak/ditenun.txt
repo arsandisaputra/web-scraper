@@ -1,0 +1,2 @@
+arti ditenun = lapatan ditonun
+arti kata ditenun = lapatan hata ditonun

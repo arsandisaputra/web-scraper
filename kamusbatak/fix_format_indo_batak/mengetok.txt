@@ -1,0 +1,1 @@
+mengetok pintu = maniktik pintu
