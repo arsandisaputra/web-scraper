@@ -56,3 +56,8 @@ def load1_100_indo():
         x, y = line.split('-')
         sebutan1_100[x] = y.lower()
     return sebutan1_100
+
+
+def bersihkan_kata(kata):
+    bersih = re.sub(r'[^a-zA-Z]', '', kata)
+    return bersih
