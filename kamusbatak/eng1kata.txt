@@ -1291,7 +1291,6 @@ confront
 confronted
 confusion
 congested
-congok
 congratulations
 congregate
 congregation
@@ -1463,7 +1462,6 @@ crushed
 crushing
 cry
 crying
-cubit
 cuddle
 culture
 cumbersome
@@ -1486,7 +1484,6 @@ customs
 cut
 cutting
 cylinder
-dablek
 dagger
 daily
 dam
@@ -2395,8 +2392,6 @@ furthermore
 fuss
 fussy
 future
-gadang
-galang
 galangal
 gamble
 game
@@ -2427,7 +2422,6 @@ gentle
 genuine
 germs
 get
-getek
 getik
 getting
 geyang
@@ -2472,9 +2466,7 @@ goes
 going
 gold
 golden
-gondol
 gone
-gongseng
 good
 goodbye
 goodness

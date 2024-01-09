@@ -27,7 +27,7 @@ def simpandata(file_path, data, writemode='a'):
 
 
 def load_data(file_path):
-    with open(file_path, 'r', encoding='utf-8') as file:
+    with open(file_path, 'r') as file:
         data_list = file.readlines()
 
     data_list = [line.strip() for line in data_list]
